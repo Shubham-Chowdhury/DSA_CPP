@@ -95,6 +95,7 @@ For each problem, I try to focus on:
 | [0001-two-sum](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0001-two-sum/) | Easy |
 | [0189-rotate-array](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,4 +110,21 @@ For each problem, I try to focus on:
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
