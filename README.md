@@ -94,12 +94,14 @@ For each problem, I try to focus on:
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0001-two-sum/) | Easy |
 | [0189-rotate-array](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0189-rotate-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0001-two-sum/) | Easy |
+| [0217-contains-duplicate](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0217-contains-duplicate/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,4 +129,8 @@ For each problem, I try to focus on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
