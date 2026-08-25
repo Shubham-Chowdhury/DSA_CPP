@@ -93,6 +93,7 @@ For each problem, I try to focus on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0001-two-sum/) | Easy |
+| [0035-search-insert-position](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0189-rotate-array](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0189-rotate-array/) | Medium |
@@ -120,6 +121,7 @@ For each problem, I try to focus on:
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0035-search-insert-position/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0704-binary-search/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
