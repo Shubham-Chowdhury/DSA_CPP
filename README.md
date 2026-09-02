@@ -93,6 +93,7 @@ For each problem, I try to focus on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0035-search-insert-position/) | Easy |
@@ -119,6 +120,7 @@ For each problem, I try to focus on:
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0042-trapping-rain-water/) | Hard |
 | [0189-rotate-array](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0283-move-zeroes/) | Easy |
@@ -148,6 +150,7 @@ For each problem, I try to focus on:
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0015-3sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0217-contains-duplicate/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0905-sort-array-by-parity/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
