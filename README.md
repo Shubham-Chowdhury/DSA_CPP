@@ -172,4 +172,12 @@ For each problem, I try to focus on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0042-trapping-rain-water/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
