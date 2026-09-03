@@ -125,6 +125,7 @@ For each problem, I try to focus on:
 | [0189-rotate-array](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -176,6 +177,7 @@ For each problem, I try to focus on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
