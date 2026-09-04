@@ -14,11 +14,11 @@ public:
                 first = mid;
                 end = mid - 1;
             }
-            else if(arr[mid] > target){
-                end = mid - 1;
+            else if(arr[mid] < target){
+                start = mid + 1;
             }
             else {
-                start = mid + 1;
+                end = mid - 1;
             }
         }
 
