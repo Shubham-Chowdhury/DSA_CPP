@@ -99,6 +99,7 @@ For each problem, I try to focus on:
 | [0035-search-insert-position](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0053-maximum-subarray/) | Medium |
+| [0066-plus-one](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0189-rotate-array](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0189-rotate-array/) | Medium |
@@ -119,6 +120,7 @@ For each problem, I try to focus on:
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0009-palindrome-number/) | Easy |
+| [0066-plus-one](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0189-rotate-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
