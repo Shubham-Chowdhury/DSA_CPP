@@ -114,6 +114,7 @@ For each problem, I try to focus on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0001-two-sum/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0217-contains-duplicate](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0217-contains-duplicate/) | Easy |
 ## Math
@@ -130,6 +131,7 @@ For each problem, I try to focus on:
 | [0015-3sum](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0075-sort-colors/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0283-move-zeroes/) | Easy |
@@ -158,6 +160,7 @@ For each problem, I try to focus on:
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0141-linked-list-cycle/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -192,6 +195,7 @@ For each problem, I try to focus on:
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
