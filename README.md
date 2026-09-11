@@ -197,6 +197,7 @@ For each problem, I try to focus on:
 | [0002-add-two-numbers](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0025-reverse-nodes-in-k-group](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0141-linked-list-cycle](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0206-reverse-linked-list/) | Easy |
@@ -209,6 +210,7 @@ For each problem, I try to focus on:
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0025-reverse-nodes-in-k-group](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0206-reverse-linked-list/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
