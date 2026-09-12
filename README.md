@@ -93,6 +93,7 @@ For each problem, I try to focus on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0015-3sum](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -143,6 +144,7 @@ For each problem, I try to focus on:
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0035-search-insert-position/) | Easy |
@@ -174,6 +176,7 @@ For each problem, I try to focus on:
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0053-maximum-subarray/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Dynamic Programming
