@@ -122,6 +122,7 @@ For each problem, I try to focus on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0189-rotate-array/) | Medium |
