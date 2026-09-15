@@ -99,6 +99,7 @@ For each problem, I try to focus on:
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0042-trapping-rain-water/) | Hard |
+| [0048-rotate-image](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0075-sort-colors/) | Medium |
@@ -126,6 +127,7 @@ For each problem, I try to focus on:
 | [0002-add-two-numbers](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0009-palindrome-number/) | Easy |
+| [0048-rotate-image](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0189-rotate-array/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0445-add-two-numbers-ii/) | Medium |
@@ -229,6 +231,7 @@ For each problem, I try to focus on:
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0048-rotate-image/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0867-transpose-matrix](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/1572-matrix-diagonal-sum/) | Easy |
