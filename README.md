@@ -109,6 +109,7 @@ For each problem, I try to focus on:
 | [0283-move-zeroes](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0704-binary-search/) | Easy |
+| [0867-transpose-matrix](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0867-transpose-matrix/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -229,9 +230,14 @@ For each problem, I try to focus on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0867-transpose-matrix](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0008-string-to-integer-atoi/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0867-transpose-matrix](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0867-transpose-matrix/) | Easy |
 <!---LeetCode Topics End-->
