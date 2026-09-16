@@ -109,6 +109,7 @@ For each problem, I try to focus on:
 | [0240-search-a-2d-matrix-ii](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0704-binary-search](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0704-binary-search/) | Easy |
 | [0867-transpose-matrix](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0867-transpose-matrix/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -121,6 +122,7 @@ For each problem, I try to focus on:
 | [0141-linked-list-cycle](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0217-contains-duplicate](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0217-contains-duplicate/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,6 +178,7 @@ For each problem, I try to focus on:
 | [0015-3sum](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0217-contains-duplicate/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0905-sort-array-by-parity/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Divide and Conquer
