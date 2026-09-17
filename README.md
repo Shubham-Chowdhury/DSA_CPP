@@ -119,6 +119,7 @@ For each problem, I try to focus on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0217-contains-duplicate](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0217-contains-duplicate/) | Easy |
@@ -241,9 +242,14 @@ For each problem, I try to focus on:
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0008-string-to-integer-atoi/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0867-transpose-matrix](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0867-transpose-matrix/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
