@@ -197,6 +197,7 @@ For each problem, I try to focus on:
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0042-trapping-rain-water/) | Hard |
 | [0445-add-two-numbers-ii](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0445-add-two-numbers-ii/) | Medium |
 ## Monotonic Stack
@@ -244,6 +245,7 @@ For each problem, I try to focus on:
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0020-valid-parentheses](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0020-valid-parentheses/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -252,4 +254,8 @@ For each problem, I try to focus on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
