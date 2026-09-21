@@ -120,6 +120,7 @@ For each problem, I try to focus on:
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0012-integer-to-roman](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0012-integer-to-roman/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0217-contains-duplicate](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0217-contains-duplicate/) | Easy |
@@ -130,6 +131,7 @@ For each problem, I try to focus on:
 | [0002-add-two-numbers](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0009-palindrome-number/) | Easy |
+| [0012-integer-to-roman](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0012-integer-to-roman/) | Medium |
 | [0048-rotate-image](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0189-rotate-array/) | Medium |
@@ -249,6 +251,7 @@ For each problem, I try to focus on:
 | [0005-longest-palindromic-substring](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0012-integer-to-roman](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0012-integer-to-roman/) | Medium |
 | [0020-valid-parentheses](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0020-valid-parentheses/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
