@@ -111,6 +111,7 @@ For each problem, I try to focus on:
 | [0287-find-the-duplicate-number](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0704-binary-search](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0704-binary-search/) | Easy |
+| [0735-asteroid-collision](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0735-asteroid-collision/) | Medium |
 | [0867-transpose-matrix](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0867-transpose-matrix/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -204,6 +205,7 @@ For each problem, I try to focus on:
 | [0020-valid-parentheses](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0042-trapping-rain-water/) | Hard |
 | [0445-add-two-numbers-ii](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0735-asteroid-collision](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0735-asteroid-collision/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -256,6 +258,7 @@ For each problem, I try to focus on:
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0735-asteroid-collision](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0735-asteroid-collision/) | Medium |
 | [0867-transpose-matrix](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0867-transpose-matrix/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
