@@ -96,6 +96,7 @@ For each problem, I try to focus on:
 | [0004-median-of-two-sorted-arrays](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0016-3sum-closest/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0035-search-insert-position/) | Easy |
@@ -145,6 +146,7 @@ For each problem, I try to focus on:
 | [0005-longest-palindromic-substring](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0016-3sum-closest/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0075-sort-colors/) | Medium |
@@ -184,6 +186,7 @@ For each problem, I try to focus on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0016-3sum-closest/) | Medium |
 | [0075-sort-colors](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0217-contains-duplicate/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
