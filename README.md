@@ -114,6 +114,7 @@ For each problem, I try to focus on:
 | [0283-move-zeroes](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0622-design-circular-queue](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0622-design-circular-queue/) | Medium |
 | [0704-binary-search](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0735-asteroid-collision/) | Medium |
 | [0867-transpose-matrix](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0867-transpose-matrix/) | Easy |
@@ -233,6 +234,7 @@ For each problem, I try to focus on:
 | [0206-reverse-linked-list](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0622-design-circular-queue](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0622-design-circular-queue/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Recursion
@@ -299,4 +301,12 @@ For each problem, I try to focus on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0622-design-circular-queue](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0622-design-circular-queue/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0622-design-circular-queue](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0622-design-circular-queue/) | Medium |
 <!---LeetCode Topics End-->
