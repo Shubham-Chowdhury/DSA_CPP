@@ -1,36 +1,30 @@
 class Solution {
 public:
-    int trap(vector<int>& height) {
-        int left = 0;
-        int right = height.size() - 1;
-
-        int leftMax = 0;
-        int rightMax = 0;
-
+    int trap(vector<int>& arr) {
+        int size = arr.size();
+        int left = 1;
+        int right = size - 2;
+        int leftMax = arr[0];
+        int rightMax = arr[size - 1];
         int water = 0;
 
-        while (left < right) {
-
-            if (height[left] < height[right]) {
-
-                if (height[left] >= leftMax) {
-                    leftMax = height[left];
-                } 
-                else {
-                    water += leftMax - height[left];
+        while(left <= right){
+            if(rightMax >= leftMax){
+                if(arr[left] > leftMax){
+                    leftMax = arr[left];
                 }
-
+                else{
+                    water += leftMax - arr[left];
+                }
                 left++;
-            } 
-            else {
-
-                if (height[right] >= rightMax) {
-                    rightMax = height[right];
-                } 
-                else {
-                    water += rightMax - height[right];
+            }
+            else{
+                if(arr[right] > rightMax){
+                    rightMax = arr[right];
                 }
-
+                else{
+                    water += rightMax - arr[right];
+                }
                 right--;
             }
         }
