@@ -316,6 +316,7 @@ For each problem, I try to focus on:
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0112-path-sum](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0112-path-sum/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -324,6 +325,7 @@ For each problem, I try to focus on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0112-path-sum](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0112-path-sum/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -333,6 +335,7 @@ For each problem, I try to focus on:
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0112-path-sum](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0112-path-sum/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -345,5 +348,6 @@ For each problem, I try to focus on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0112-path-sum](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0199-binary-tree-right-side-view/) | Medium |
 <!---LeetCode Topics End-->
