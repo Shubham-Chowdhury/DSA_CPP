@@ -106,6 +106,7 @@ For each problem, I try to focus on:
 | [0066-plus-one](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0075-sort-colors/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0189-rotate-array](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -127,6 +128,7 @@ For each problem, I try to focus on:
 | [0001-two-sum](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0012-integer-to-roman/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0217-contains-duplicate](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0217-contains-duplicate/) | Easy |
@@ -200,6 +202,7 @@ For each problem, I try to focus on:
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0053-maximum-subarray/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Dynamic Programming
@@ -316,6 +319,7 @@ For each problem, I try to focus on:
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0112-path-sum](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0112-path-sum/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -335,6 +339,7 @@ For each problem, I try to focus on:
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0112-path-sum](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0112-path-sum/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
