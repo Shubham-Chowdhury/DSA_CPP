@@ -219,6 +219,7 @@ For each problem, I try to focus on:
 | [0042-trapping-rain-water](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0735-asteroid-collision/) | Medium |
@@ -322,6 +323,7 @@ For each problem, I try to focus on:
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0112-path-sum](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0112-path-sum/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -331,6 +333,7 @@ For each problem, I try to focus on:
 | [0094-binary-tree-inorder-traversal](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0112-path-sum](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0112-path-sum/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -342,6 +345,7 @@ For each problem, I try to focus on:
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0112-path-sum](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0112-path-sum/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0543-diameter-of-binary-tree/) | Easy |
