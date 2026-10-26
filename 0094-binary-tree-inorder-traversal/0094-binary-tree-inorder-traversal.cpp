@@ -11,13 +11,18 @@
  */
 class Solution {
 public:
-    vector<int> arr;
-    vector<int> inorderTraversal(TreeNode* root) {
-        if (root == NULL) return arr;
-        inorderTraversal(root->left);
-        arr.push_back(root->val);
-        inorderTraversal(root->right);
+    void soln(TreeNode* root, vector<int> &arr){
+        if(root == NULL){
+            return;
+        }
 
+        soln(root->left, arr);
+        arr.push_back(root->val);
+        soln(root->right, arr);
+    }
+    vector<int> inorderTraversal(TreeNode* root) {
+        vector<int> arr;
+        soln(root, arr);
         return arr;
     }
 };
