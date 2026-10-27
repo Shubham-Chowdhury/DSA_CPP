@@ -327,6 +327,7 @@ For each problem, I try to focus on:
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -349,6 +350,7 @@ For each problem, I try to focus on:
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -359,4 +361,8 @@ For each problem, I try to focus on:
 | [0102-binary-tree-level-order-traversal](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0199-binary-tree-right-side-view/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
