@@ -9,7 +9,7 @@ public:
         int water = 0;
 
         while(left <= right){
-            if(rightMax >= leftMax){
+            if(rightMax > leftMax){
                 if(arr[left] > leftMax){
                     leftMax = arr[left];
                 }
@@ -28,7 +28,6 @@ public:
                 right--;
             }
         }
-
         return water;
     }
 };
