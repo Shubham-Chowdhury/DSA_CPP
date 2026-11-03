@@ -120,6 +120,7 @@ For each problem, I try to focus on:
 | [0735-asteroid-collision](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0735-asteroid-collision/) | Medium |
 | [0867-transpose-matrix](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0867-transpose-matrix/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0980-unique-paths-iii](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0980-unique-paths-iii/) | Hard |
 | [1572-matrix-diagonal-sum](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Hash Table
@@ -177,6 +178,7 @@ For each problem, I try to focus on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0980-unique-paths-iii](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0980-unique-paths-iii/) | Hard |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -264,6 +266,7 @@ For each problem, I try to focus on:
 | [0048-rotate-image](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0048-rotate-image/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0867-transpose-matrix](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0867-transpose-matrix/) | Easy |
+| [0980-unique-paths-iii](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0980-unique-paths-iii/) | Hard |
 | [1572-matrix-diagonal-sum](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -369,4 +372,12 @@ For each problem, I try to focus on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0980-unique-paths-iii](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0980-unique-paths-iii/) | Hard |
+## Hamiltonian Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0980-unique-paths-iii](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0980-unique-paths-iii/) | Hard |
 <!---LeetCode Topics End-->
