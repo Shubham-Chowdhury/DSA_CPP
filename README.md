@@ -332,6 +332,7 @@ For each problem, I try to focus on:
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -345,6 +346,7 @@ For each problem, I try to focus on:
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -359,6 +361,7 @@ For each problem, I try to focus on:
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
@@ -384,4 +387,12 @@ For each problem, I try to focus on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0980-unique-paths-iii](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0980-unique-paths-iii/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0572-subtree-of-another-tree/) | Easy |
 <!---LeetCode Topics End-->
