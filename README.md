@@ -105,6 +105,7 @@ For each problem, I try to focus on:
 | [0053-maximum-subarray](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -178,6 +179,7 @@ For each problem, I try to focus on:
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0078-subsets/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0980-unique-paths-iii](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0980-unique-paths-iii/) | Hard |
 ## Pigeonhole Principle
@@ -384,6 +386,7 @@ For each problem, I try to focus on:
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0078-subsets/) | Medium |
 | [0980-unique-paths-iii](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0980-unique-paths-iii/) | Hard |
 ## Hamiltonian Path
 | Problem Name | Difficulty |
