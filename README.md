@@ -146,6 +146,7 @@ For each problem, I try to focus on:
 | [0066-plus-one](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0189-rotate-array/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0509-fibonacci-number](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0509-fibonacci-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -217,6 +218,7 @@ For each problem, I try to focus on:
 | [0042-trapping-rain-water](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0509-fibonacci-number](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0509-fibonacci-number/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -256,6 +258,7 @@ For each problem, I try to focus on:
 | [0021-merge-two-sorted-lists](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0206-reverse-linked-list/) | Easy |
+| [0509-fibonacci-number](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0509-fibonacci-number/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -400,4 +403,8 @@ For each problem, I try to focus on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Shubham-Chowdhury/DSA_CPP/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
