@@ -28,7 +28,6 @@ public:
                 right--;
             }
         }
-
         return water;
     }
 };
